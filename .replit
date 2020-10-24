@@ -1,0 +1,9 @@
+language = "bash"
+run = "python3 <filename.py>"
+res resta=a-b
+print(res resta)
+
+res resMulti=a*b
+print(res Multi)
+
+
