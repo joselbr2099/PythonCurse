@@ -13,6 +13,7 @@ temas:
 9. listas
 10. diccionarios
 11. archivos
+12. base de datos
 
 
 repositorio online: [en replit](https://repl.it/@joseluis37/pythoncurse)

@@ -1,0 +1,7 @@
+.- cuente el numero de caracteres del archivo travel_plans.txt
+2._cluente el numero total de palabras en el archivo emotion_words.txt
+3.-cuente el numero de lineas en el archivo shool_prompt.txt
+4.-extraiga los primeros 30 caracteres de shool_prompt.txt
+5.- usando shool_prompt.txt extraiga la tercera palabra de cada linea en una lista
+6.- cree una lista que contenga la primera palabra de cada linea en emotion_words.txt
+7.- usando shool_prompt.txt si el caracter 'p' esta en una palabra agregue esta palabra a una lista

@@ -14,6 +14,7 @@ class Persona(object):
   def trabajar(self):
     print("Hola soy ",self.nombre," no molestes estoy trabajando a  mis",self.edad," años")
     
+    :
 class Estudiante(Persona):
 
   carrera="informatica"

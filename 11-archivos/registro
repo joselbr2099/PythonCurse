@@ -1,0 +1,40 @@
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3,8G     0  3,8G   0% /dev
+tmpfs           784M  1,7M  782M   1% /run
+/dev/sda5        69G   48G   18G  74% /
+tmpfs           3,9G   51M  3,8G   2% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop2       73M   73M     0 100% /snap/colorpicker-app/5
+/dev/loop1      801M  801M     0 100% /snap/android-studio/93
+/dev/loop3       98M   98M     0 100% /snap/core/10185
+/dev/loop4       61M   61M     0 100% /snap/core20/634
+/dev/loop5      197M  197M     0 100% /snap/flutter/30
+/dev/loop6      197M  197M     0 100% /snap/flutter/31
+/dev/loop7      449M  449M     0 100% /snap/libreoffice/191
+/dev/loop0      819M  819M     0 100% /snap/android-studio/94
+/dev/loop9       92M   92M     0 100% /snap/go/6633
+/dev/loop10      63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop13      31M   31M     0 100% /snap/snapd/9607
+/dev/loop8      162M  162M     0 100% /snap/gnome-3-28-1804/128
+/dev/loop11      98M   98M     0 100% /snap/core/10126
+/dev/loop12     179M  179M     0 100% /snap/telegram-desktop/2131
+/dev/loop14      56M   56M     0 100% /snap/core18/1885
+/dev/loop15      92M   92M     0 100% /snap/go/6439
+/dev/loop16     432M  432M     0 100% /snap/libreoffice/194
+/dev/loop17     145M  145M     0 100% /snap/zoom-client/106
+/dev/loop18      58M   58M     0 100% /snap/discord/115
+/dev/loop19     145M  145M     0 100% /snap/zoom-client/101
+/dev/loop20     182M  182M     0 100% /snap/obs-studio/1141
+/dev/loop21      31M   31M     0 100% /snap/snapd/9721
+/dev/loop22     163M  163M     0 100% /snap/gnome-3-28-1804/145
+/dev/sda1        96M   33M   64M  35% /boot/efi
+tmpfs           784M  340K  784M   1% /run/user/1000
+/dev/sdc5       466G  220G  247G  48% /media/odysseus/winpart2
+/dev/sdb6       510G   22G  488G   5% /media/odysseus/winpart1
+/dev/sdb11      423G  297G  126G  71% /media/odysseus/store
+/dev/sda3       153G   70G   84G  46% /media/odysseus/windows
+/dev/loop24     179M  179M     0 100% /snap/telegram-desktop/2141
+hora de reinicio programadahora de reinicio programada 2nueva linea de registronueva linea de registronueva linea de registro
+nueva linea de registro
+nueva linea de registro

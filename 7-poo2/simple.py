@@ -12,7 +12,7 @@ class Empleado(object):
     def getNombre(self):
         print("Hola soy ",self.nombre)
 
-
+    def ddd():
 
 class Desarrollador(Empleado):
     nombre="default"

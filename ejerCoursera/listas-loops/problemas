@@ -1,0 +1,13 @@
+1.- imprima cada caracter de "Hello world" con el signo "!"
+2.- cuente el numero de caracteres en la lista:
+    cawdra = ['candy', 'daisy', 'pear', 'peach', 'gem', 'crown']
+3.- sume los elementos de la lista:
+    lst = [5, 10, 3, 8, 94, 2, 4, 9]
+4.- convierta:
+    str1 = "I love python"
+    en una lista de caracteres: lst=['I','l','o'...] 
+
+
+
+
+
