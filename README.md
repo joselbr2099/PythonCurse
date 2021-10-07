@@ -10,7 +10,7 @@ Curso de introducción a python
     Por Jose Luis Blas Ralde
 
 
-Este repositorio contiene el código que se ve en clases, estos archivos pueden cambiar con el tiempo, puede probarse el codigo usando el IDE online: https://replit.com/@joseluis37/pythoncurse como ayuda se usará los  pdf's que estan en la carpeta "libros"
+Este repositorio contiene el código que se ve en clases, estos archivos pueden cambiar con el tiempo, puede probarse el codigo usando el IDE online: https://replit.com/@joseluis37/pythoncurse
 
 temas:
 
